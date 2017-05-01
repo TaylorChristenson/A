@@ -1,0 +1,22 @@
+{
+  "name": "alliance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorChristenson/Alliance.git"
+  },
+  "author": "Taylor Christenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaylorChristenson/Alliance/issues"
+  },
+  "homepage": "https://github.com/TaylorChristenson/Alliance#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
